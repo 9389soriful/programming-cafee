@@ -1,0 +1,47 @@
+[
+  {
+    "coverImg": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800",
+    "profileImg": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=100",
+    "name": "John Doe",
+    "activeDate": "2024-11-01",
+    "readTime": "5 min read",
+    "spanTime" : 9,
+    "summary": "An in-depth look at the importance of daily routines and how they affect productivity."
+  },
+  {
+    "coverImg": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800",
+    "profileImg": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=100",
+    "name": "Jane Smith",
+    "activeDate": "2024-11-12",
+    "readTime": "8 min read",
+    "spanTime" : 5,
+    "summary": "Discover how technology is shaping the future of remote work and hybrid offices."
+  },
+  {
+    "coverImg": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800",
+    "profileImg": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=100",
+    "name": "Alice Johnson",
+    "activeDate": "2024-11-15",
+    "readTime": "6 min read",
+    "spanTime" : 7,
+    "summary": "A beginner's guide to mindfulness and its impact on mental health and well-being."
+  },
+  {
+    "coverImg": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800",
+    "profileImg": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=100",
+    "name": "Bob Williams",
+    "activeDate": "2024-11-20",
+    "spanTime" : 8,
+    "readTime": "4 min read",
+    "summary": "Exploring the latest trends in AI and how they’re transforming industries worldwide."
+  },
+  {
+    "coverImg": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800",
+    "profileImg": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=100",
+    "name": "Sophia Brown",
+    "activeDate": "2024-11-25",
+    "spanTime" : 10,
+    "readTime": "7 min read",
+    "summary": "A comprehensive guide to meal prepping and how it can save you time and money."
+  }
+]
